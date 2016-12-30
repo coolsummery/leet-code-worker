@@ -1,5 +1,3 @@
-import static jdk.nashorn.internal.objects.NativeMath.min;
-
 /**
  * Created by baobinbin on 2016/12/27.
  */
